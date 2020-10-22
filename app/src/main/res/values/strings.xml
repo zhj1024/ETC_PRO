@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">登录</string>
+    <string name="title_home">开始读卡</string>
+    <string name="title_dashboard">个人中心</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="appLogin">登录界面</string>
+    <string name="error">账户名或密码有误</string>
+    <string name="button">post请求</string>
+    <string name="loginURL">https://www.luckparking.cn/v2.0/login</string>
+    <string name="loginOUT">https://www.luckparking.cn/v2.0/logout</string>
+    <string name="obu">https://www.luckparking.cn/v2.0/etc/getVehInfo</string>
+<!--    <string name="loginURL">http://192.168.1.15:8889/v2.0/login</string>-->
+    <string name="errors">网络较差，请稍后重试!</string>
+    <string name="overtime">登录超时</string>
+    <string name="information">登录后代表您已阅读并同意用户协议和隐私政策</string>
+</resources>
